@@ -1,4 +1,0 @@
-NEW FIX
-int main() {
-	Test test = new Test();
-}

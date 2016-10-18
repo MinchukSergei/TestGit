@@ -1,7 +1,4 @@
 NEW FIX
 int main() {
-	Catalog cat = new Catalog();
-	cat.fuckPES();
-	cat.hui = "OGROMNII";
-	bitch2();
+	Test test = new Test();
 }

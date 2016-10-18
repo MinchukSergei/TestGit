@@ -3,5 +3,6 @@ int main() {
 	Catalog cat = new Catalog();
 	cat.fuckPES();
 	cat.hui = "OGROMNII";
-	bitch2();
+	cat.hui.length = 25;
+	bitchNEW();
 }

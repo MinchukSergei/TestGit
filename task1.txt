@@ -1,1 +1,6 @@
 NEW FIX
+int main() {
+	Catalog cat = new Catalog();
+	cat.fuck();
+	bitch();
+}

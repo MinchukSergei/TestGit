@@ -1,8 +1,0 @@
-NEW FIX
-int main() {
-	Catalog cat = new Catalog();
-	cat.fuckPES();
-	cat.hui = "OGROMNII";
-	cat.hui.length = 25;
-	bitchNEW();
-}
